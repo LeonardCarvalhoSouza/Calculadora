@@ -1,2 +1,6 @@
 # Calculadora
-Estudo de JavaScrip
+Estudo de JavaScript
+
+HTML
+CSS
+JAVASCRIPT
